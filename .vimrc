@@ -16,7 +16,7 @@ set encoding=utf-8
 noremap j gj
 noremap k gk
 
-set syntax=c
+syntax on
 set	hidden
 set updatetime=500
 set term=xterm-256color
